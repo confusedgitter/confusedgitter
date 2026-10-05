@@ -1,65 +1,97 @@
 # confusedgitter
 
-### Swift & iOS Developer in the Making
+**MCA / Computer Science · building for Apple platforms**
 
-I'm an MCA / Computer Science graduate building practical software with a growing focus on **Swift, SwiftUI, and the Apple ecosystem**.
+I'm currently moving my development work toward **Swift and native iOS**.
 
-I like turning real-world problems into usable products — especially where **health, data, and intelligent decision support** come together.
+Most of my time goes into building things rather than collecting technologies. The main project I'm working on is **NutriCore**, a SwiftUI application that combines food inventory, nutrition, meal planning, recipes, health data and personal progress in one place.
 
-## 🚀 Featured Work
-
-### 🥗 NutriCore
-**Smart Food & Nutrition Manager — built in Swift**
-
-NutriCore is my main iOS project and the clearest direction of where I want to take my development work.
-
-It brings together:
-- 📦 Food & pantry inventory management
-- ⏳ Smart expiry tracking
-- 🍽️ Recipe recommendations based on available ingredients
-- 🔥 Calorie and nutrition tracking
-- ❤️ Health-focused data integration
-- 🥗 Meal planning
-- 🏋️ Workout recommendations
-- 🔔 Notifications and habit support
-- 📊 Personalized dashboards and progress tracking
-
-The project is built around native Apple development and is helping me deepen my skills in **Swift, SwiftUI, app architecture, data modelling, and iOS product development**.
-
-→ [NutriCore](https://github.com/confusedgitter/NutriCore)
-
-### ❤️ Intelligent Cardiovascular Risk Assessment
-An academic clinical decision-support MVP combining **machine learning, visual analytics, and patient-specific cardiovascular risk assessment**.
-
-The project includes model comparison, risk prediction, SHAP-based risk drivers, health indicators, and what-if recalculation.
-
-→ [View project](https://github.com/confusedgitter/Intelligent-cardiovascular-risk-assessment-visual-analytics-)
-
-## 🛠️ What I'm Working With
-
-**Mobile & Apple**
-Swift · SwiftUI · Xcode · iOS · HealthKit
-
-**Data & Intelligent Systems**
-Python · Machine Learning · Data Visualization · Visual Analytics
-
-**Other**
-Git · GitHub · Java · C · SQL · REST APIs
-
-## 🎯 Currently
-
-- Building and expanding **NutriCore**
-- Growing deeper into **Swift & native iOS development**
-- Exploring health-tech, intelligent applications, and data-driven UX
-- Turning academic projects into more complete, portfolio-ready products
-
-## 📌 Featured Repositories
-
-⭐ [NutriCore](https://github.com/confusedgitter/NutriCore)  
-❤️ [Cardiovascular Risk Assessment](https://github.com/confusedgitter/Intelligent-cardiovascular-risk-assessment-visual-analytics-)  
-⚡ [VYRON](https://github.com/confusedgitter/VYRON)
+I'm interested in software that has a reason to exist, has a usable interface, and can grow beyond a classroom demo.
 
 ---
 
-> Building useful things, learning by shipping, and moving deeper into Swift. 🍎
+## Current project
 
+### [NutriCore](https://github.com/confusedgitter/NutriCore)
+
+A native iOS food and nutrition manager built with **Swift + SwiftUI**.
+
+The project currently covers:
+
+- Food inventory and expiry tracking
+- Recipe generation from available ingredients
+- Calorie and nutrition tracking
+- Meal planning
+- Workout recommendations
+- Personal profiles and progress
+- Notifications
+- Health-focused data integration
+- Dashboard-based visualisation
+
+The interesting part for me is less the feature list and more the process of turning all of these pieces into one coherent iOS product.
+
+**Stack:** Swift · SwiftUI · Xcode · HealthKit · native iOS frameworks
+
+---
+
+## Other work
+
+### [Cardiovascular Risk Assessment](https://github.com/confusedgitter/Intelligent-cardiovascular-risk-assessment-visual-analytics-)
+
+An academic clinical decision-support MVP combining machine learning with a visual analytics interface.
+
+It includes model comparison, patient-specific cardiovascular risk prediction, SHAP-based risk factors and what-if recalculation.
+
+### [VYRON](https://github.com/confusedgitter/VYRON)
+
+An earlier project that sits alongside my current work and development experiments.
+
+---
+
+## What I'm learning
+
+**Swift / iOS**  
+SwiftUI · application architecture · state management · HealthKit · native Apple frameworks
+
+**Data / intelligent systems**  
+Python · machine learning · visual analytics · data-driven interfaces
+
+**General development**  
+Git · GitHub · Java · C · SQL · REST APIs
+
+---
+
+## GitHub, live
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=confusedgitter&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=confusedgitter&layout=compact&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=confusedgitter&hide_border=true" height="165" />
+</p>
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=confusedgitter&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## A few things I'm building toward
+
+- NutriCore becoming a proper iOS application rather than a project prototype
+- Deeper use of Apple health and device capabilities
+- Better SwiftUI architecture and reusable components
+- More thoughtful data visualisation
+- Building smaller projects alongside NutriCore to learn by actually shipping
+
+---
+
+<p align="center">
+  <a href="https://github.com/confusedgitter/NutriCore">NutriCore</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/confusedgitter">Repositories</a>
+</p>
