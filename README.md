@@ -1,4 +1,4 @@
-# Hey, I'm confusedgitter 👋
+# confusedgitter
 
 ### Swift & iOS Developer in the Making
 
